@@ -1,4 +1,6 @@
 # Lab 8 - Starter
+Name: Gavin Zhou
+
 1. I would put my automated tests in a GitHub action that runs whenver code is pushed.
 2. No
 3. I wouldn't use unit testing for testing a "message" feature because it can't test how components like messages interact with each other.
